@@ -1,1 +1,1 @@
-"# Ethical-Community-Crime-Data-Analysis" 
+Law enforcement agencies benefit greatly from the prediction of crime within communities across the United States of America. Using this information, they determine how to allocate resources to minimize and prevent crime. The prediction of crime within communities can often lead to discriminatory results by unfairly representing communities with of underprivileged ethnic backgrounds. An analysis of ethical practices is explored within the realm of prediction of crime within communities to prevent further discrimination. 
